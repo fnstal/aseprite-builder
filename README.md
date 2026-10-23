@@ -1,4 +1,6 @@
-﻿# Aseprite Builder 🎨
+# Используемая версия Skia: m102->m124
+ 
+ # Aseprite Builder 🎨
 
 This project provides an easy, automated way to get your own copy of **Aseprite** by building it directly from the official source code for **Windows, Linux, and macOS**.
 
